@@ -1,0 +1,3 @@
+- Full Stack ( Asp.net Core , MySql Server ,jquery , HTML , CSS , Bootsrap )
+- Api
+- Onion Architecture

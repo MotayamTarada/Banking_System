@@ -1,0 +1,214 @@
+D:\TheHope\Project_SourceCode\HopeAdvanceFebruray\Hope.API\bin\Debug\net5.0\appsettings.Development.json
+D:\TheHope\Project_SourceCode\HopeAdvanceFebruray\Hope.API\bin\Debug\net5.0\appsettings.json
+D:\TheHope\Project_SourceCode\HopeAdvanceFebruray\Hope.API\bin\Debug\net5.0\Hope.API.exe
+D:\TheHope\Project_SourceCode\HopeAdvanceFebruray\Hope.API\bin\Debug\net5.0\Hope.API.deps.json
+D:\TheHope\Project_SourceCode\HopeAdvanceFebruray\Hope.API\bin\Debug\net5.0\Hope.API.runtimeconfig.json
+D:\TheHope\Project_SourceCode\HopeAdvanceFebruray\Hope.API\bin\Debug\net5.0\Hope.API.runtimeconfig.dev.json
+D:\TheHope\Project_SourceCode\HopeAdvanceFebruray\Hope.API\bin\Debug\net5.0\Hope.API.dll
+D:\TheHope\Project_SourceCode\HopeAdvanceFebruray\Hope.API\bin\Debug\net5.0\ref\Hope.API.dll
+D:\TheHope\Project_SourceCode\HopeAdvanceFebruray\Hope.API\bin\Debug\net5.0\Hope.API.pdb
+D:\TheHope\Project_SourceCode\HopeAdvanceFebruray\Hope.API\bin\Debug\net5.0\Microsoft.AspNetCore.JsonPatch.dll
+D:\TheHope\Project_SourceCode\HopeAdvanceFebruray\Hope.API\bin\Debug\net5.0\Microsoft.Data.SqlClient.dll
+D:\TheHope\Project_SourceCode\HopeAdvanceFebruray\Hope.API\bin\Debug\net5.0\Microsoft.DotNet.PlatformAbstractions.dll
+D:\TheHope\Project_SourceCode\HopeAdvanceFebruray\Hope.API\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+D:\TheHope\Project_SourceCode\HopeAdvanceFebruray\Hope.API\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\TheHope\Project_SourceCode\HopeAdvanceFebruray\Hope.API\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\TheHope\Project_SourceCode\HopeAdvanceFebruray\Hope.API\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\TheHope\Project_SourceCode\HopeAdvanceFebruray\Hope.API\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+D:\TheHope\Project_SourceCode\HopeAdvanceFebruray\Hope.API\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\TheHope\Project_SourceCode\HopeAdvanceFebruray\Hope.API\bin\Debug\net5.0\Microsoft.Extensions.DependencyModel.dll
+D:\TheHope\Project_SourceCode\HopeAdvanceFebruray\Hope.API\bin\Debug\net5.0\Microsoft.Identity.Client.dll
+D:\TheHope\Project_SourceCode\HopeAdvanceFebruray\Hope.API\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\TheHope\Project_SourceCode\HopeAdvanceFebruray\Hope.API\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+D:\TheHope\Project_SourceCode\HopeAdvanceFebruray\Hope.API\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+D:\TheHope\Project_SourceCode\HopeAdvanceFebruray\Hope.API\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\TheHope\Project_SourceCode\HopeAdvanceFebruray\Hope.API\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+D:\TheHope\Project_SourceCode\HopeAdvanceFebruray\Hope.API\bin\Debug\net5.0\Newtonsoft.Json.dll
+D:\TheHope\Project_SourceCode\HopeAdvanceFebruray\Hope.API\bin\Debug\net5.0\Newtonsoft.Json.Bson.dll
+D:\TheHope\Project_SourceCode\HopeAdvanceFebruray\Hope.API\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+D:\TheHope\Project_SourceCode\HopeAdvanceFebruray\Hope.API\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
+D:\TheHope\Project_SourceCode\HopeAdvanceFebruray\Hope.API\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+D:\TheHope\Project_SourceCode\HopeAdvanceFebruray\Hope.API\bin\Debug\net5.0\System.Runtime.Caching.dll
+D:\TheHope\Project_SourceCode\HopeAdvanceFebruray\Hope.API\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+D:\TheHope\Project_SourceCode\HopeAdvanceFebruray\Hope.API\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\TheHope\Project_SourceCode\HopeAdvanceFebruray\Hope.API\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\TheHope\Project_SourceCode\HopeAdvanceFebruray\Hope.API\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\TheHope\Project_SourceCode\HopeAdvanceFebruray\Hope.API\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\TheHope\Project_SourceCode\HopeAdvanceFebruray\Hope.API\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\TheHope\Project_SourceCode\HopeAdvanceFebruray\Hope.API\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\TheHope\Project_SourceCode\HopeAdvanceFebruray\Hope.API\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\TheHope\Project_SourceCode\HopeAdvanceFebruray\Hope.API\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\TheHope\Project_SourceCode\HopeAdvanceFebruray\Hope.API\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\TheHope\Project_SourceCode\HopeAdvanceFebruray\Hope.API\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\TheHope\Project_SourceCode\HopeAdvanceFebruray\Hope.API\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+D:\TheHope\Project_SourceCode\HopeAdvanceFebruray\Hope.API\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\TheHope\Project_SourceCode\HopeAdvanceFebruray\Hope.API\bin\Debug\net5.0\Hope.DomainEntities.dll
+D:\TheHope\Project_SourceCode\HopeAdvanceFebruray\Hope.API\bin\Debug\net5.0\Hope.Infrastructure.dll
+D:\TheHope\Project_SourceCode\HopeAdvanceFebruray\Hope.API\bin\Debug\net5.0\Hope.IOC.dll
+D:\TheHope\Project_SourceCode\HopeAdvanceFebruray\Hope.API\bin\Debug\net5.0\Hope.Repositories.dll
+D:\TheHope\Project_SourceCode\HopeAdvanceFebruray\Hope.API\bin\Debug\net5.0\Hope.Infrastructure.pdb
+D:\TheHope\Project_SourceCode\HopeAdvanceFebruray\Hope.API\bin\Debug\net5.0\Hope.IOC.pdb
+D:\TheHope\Project_SourceCode\HopeAdvanceFebruray\Hope.API\bin\Debug\net5.0\Hope.Repositories.pdb
+D:\TheHope\Project_SourceCode\HopeAdvanceFebruray\Hope.API\bin\Debug\net5.0\Hope.DomainEntities.pdb
+D:\TheHope\Project_SourceCode\HopeAdvanceFebruray\Hope.API\obj\Debug\net5.0\Hope.API.csprojAssemblyReference.cache
+D:\TheHope\Project_SourceCode\HopeAdvanceFebruray\Hope.API\obj\Debug\net5.0\Hope.API.GeneratedMSBuildEditorConfig.editorconfig
+D:\TheHope\Project_SourceCode\HopeAdvanceFebruray\Hope.API\obj\Debug\net5.0\Hope.API.AssemblyInfoInputs.cache
+D:\TheHope\Project_SourceCode\HopeAdvanceFebruray\Hope.API\obj\Debug\net5.0\Hope.API.AssemblyInfo.cs
+D:\TheHope\Project_SourceCode\HopeAdvanceFebruray\Hope.API\obj\Debug\net5.0\Hope.API.csproj.CoreCompileInputs.cache
+D:\TheHope\Project_SourceCode\HopeAdvanceFebruray\Hope.API\obj\Debug\net5.0\Hope.API.MvcApplicationPartsAssemblyInfo.cs
+D:\TheHope\Project_SourceCode\HopeAdvanceFebruray\Hope.API\obj\Debug\net5.0\Hope.API.MvcApplicationPartsAssemblyInfo.cache
+D:\TheHope\Project_SourceCode\HopeAdvanceFebruray\Hope.API\obj\Debug\net5.0\staticwebassets\Hope.API.StaticWebAssets.Manifest.cache
+D:\TheHope\Project_SourceCode\HopeAdvanceFebruray\Hope.API\obj\Debug\net5.0\staticwebassets\Hope.API.StaticWebAssets.xml
+D:\TheHope\Project_SourceCode\HopeAdvanceFebruray\Hope.API\obj\Debug\net5.0\scopedcss\bundle\Hope.API.styles.css
+D:\TheHope\Project_SourceCode\HopeAdvanceFebruray\Hope.API\obj\Debug\net5.0\Hope.API.RazorTargetAssemblyInfo.cache
+D:\TheHope\Project_SourceCode\HopeAdvanceFebruray\Hope.API\obj\Debug\net5.0\Hope.API.csproj.CopyComplete
+D:\TheHope\Project_SourceCode\HopeAdvanceFebruray\Hope.API\obj\Debug\net5.0\Hope.API.dll
+D:\TheHope\Project_SourceCode\HopeAdvanceFebruray\Hope.API\obj\Debug\net5.0\ref\Hope.API.dll
+D:\TheHope\Project_SourceCode\HopeAdvanceFebruray\Hope.API\obj\Debug\net5.0\Hope.API.pdb
+D:\TheHope\Project_SourceCode\HopeAdvanceFebruray\Hope.API\obj\Debug\net5.0\Hope.API.genruntimeconfig.cache
+D:\Asp.net Adv\HopeAdvanceFebruray\HopeAdvanceFebruray\Hope.API\bin\Debug\net5.0\appsettings.Development.json
+D:\Asp.net Adv\HopeAdvanceFebruray\HopeAdvanceFebruray\Hope.API\bin\Debug\net5.0\appsettings.json
+D:\Asp.net Adv\HopeAdvanceFebruray\HopeAdvanceFebruray\Hope.API\bin\Debug\net5.0\Hope.API.StaticWebAssets.xml
+D:\Asp.net Adv\HopeAdvanceFebruray\HopeAdvanceFebruray\Hope.API\bin\Debug\net5.0\Hope.API.exe
+D:\Asp.net Adv\HopeAdvanceFebruray\HopeAdvanceFebruray\Hope.API\bin\Debug\net5.0\Hope.API.deps.json
+D:\Asp.net Adv\HopeAdvanceFebruray\HopeAdvanceFebruray\Hope.API\bin\Debug\net5.0\Hope.API.runtimeconfig.json
+D:\Asp.net Adv\HopeAdvanceFebruray\HopeAdvanceFebruray\Hope.API\bin\Debug\net5.0\Hope.API.runtimeconfig.dev.json
+D:\Asp.net Adv\HopeAdvanceFebruray\HopeAdvanceFebruray\Hope.API\bin\Debug\net5.0\Hope.API.dll
+D:\Asp.net Adv\HopeAdvanceFebruray\HopeAdvanceFebruray\Hope.API\bin\Debug\net5.0\Hope.API.pdb
+D:\Asp.net Adv\HopeAdvanceFebruray\HopeAdvanceFebruray\Hope.API\bin\Debug\net5.0\Microsoft.AspNetCore.JsonPatch.dll
+D:\Asp.net Adv\HopeAdvanceFebruray\HopeAdvanceFebruray\Hope.API\bin\Debug\net5.0\Microsoft.Data.SqlClient.dll
+D:\Asp.net Adv\HopeAdvanceFebruray\HopeAdvanceFebruray\Hope.API\bin\Debug\net5.0\Microsoft.DotNet.PlatformAbstractions.dll
+D:\Asp.net Adv\HopeAdvanceFebruray\HopeAdvanceFebruray\Hope.API\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+D:\Asp.net Adv\HopeAdvanceFebruray\HopeAdvanceFebruray\Hope.API\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\Asp.net Adv\HopeAdvanceFebruray\HopeAdvanceFebruray\Hope.API\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\Asp.net Adv\HopeAdvanceFebruray\HopeAdvanceFebruray\Hope.API\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\Asp.net Adv\HopeAdvanceFebruray\HopeAdvanceFebruray\Hope.API\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+D:\Asp.net Adv\HopeAdvanceFebruray\HopeAdvanceFebruray\Hope.API\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\Asp.net Adv\HopeAdvanceFebruray\HopeAdvanceFebruray\Hope.API\bin\Debug\net5.0\Microsoft.Extensions.DependencyModel.dll
+D:\Asp.net Adv\HopeAdvanceFebruray\HopeAdvanceFebruray\Hope.API\bin\Debug\net5.0\Microsoft.Identity.Client.dll
+D:\Asp.net Adv\HopeAdvanceFebruray\HopeAdvanceFebruray\Hope.API\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\Asp.net Adv\HopeAdvanceFebruray\HopeAdvanceFebruray\Hope.API\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+D:\Asp.net Adv\HopeAdvanceFebruray\HopeAdvanceFebruray\Hope.API\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+D:\Asp.net Adv\HopeAdvanceFebruray\HopeAdvanceFebruray\Hope.API\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\Asp.net Adv\HopeAdvanceFebruray\HopeAdvanceFebruray\Hope.API\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+D:\Asp.net Adv\HopeAdvanceFebruray\HopeAdvanceFebruray\Hope.API\bin\Debug\net5.0\Newtonsoft.Json.dll
+D:\Asp.net Adv\HopeAdvanceFebruray\HopeAdvanceFebruray\Hope.API\bin\Debug\net5.0\Newtonsoft.Json.Bson.dll
+D:\Asp.net Adv\HopeAdvanceFebruray\HopeAdvanceFebruray\Hope.API\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+D:\Asp.net Adv\HopeAdvanceFebruray\HopeAdvanceFebruray\Hope.API\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
+D:\Asp.net Adv\HopeAdvanceFebruray\HopeAdvanceFebruray\Hope.API\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+D:\Asp.net Adv\HopeAdvanceFebruray\HopeAdvanceFebruray\Hope.API\bin\Debug\net5.0\System.Runtime.Caching.dll
+D:\Asp.net Adv\HopeAdvanceFebruray\HopeAdvanceFebruray\Hope.API\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+D:\Asp.net Adv\HopeAdvanceFebruray\HopeAdvanceFebruray\Hope.API\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\Asp.net Adv\HopeAdvanceFebruray\HopeAdvanceFebruray\Hope.API\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\Asp.net Adv\HopeAdvanceFebruray\HopeAdvanceFebruray\Hope.API\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Asp.net Adv\HopeAdvanceFebruray\HopeAdvanceFebruray\Hope.API\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\Asp.net Adv\HopeAdvanceFebruray\HopeAdvanceFebruray\Hope.API\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Asp.net Adv\HopeAdvanceFebruray\HopeAdvanceFebruray\Hope.API\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\Asp.net Adv\HopeAdvanceFebruray\HopeAdvanceFebruray\Hope.API\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Asp.net Adv\HopeAdvanceFebruray\HopeAdvanceFebruray\Hope.API\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\Asp.net Adv\HopeAdvanceFebruray\HopeAdvanceFebruray\Hope.API\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Asp.net Adv\HopeAdvanceFebruray\HopeAdvanceFebruray\Hope.API\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\Asp.net Adv\HopeAdvanceFebruray\HopeAdvanceFebruray\Hope.API\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+D:\Asp.net Adv\HopeAdvanceFebruray\HopeAdvanceFebruray\Hope.API\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\Asp.net Adv\HopeAdvanceFebruray\HopeAdvanceFebruray\Hope.API\bin\Debug\net5.0\Hope.DomainEntities.dll
+D:\Asp.net Adv\HopeAdvanceFebruray\HopeAdvanceFebruray\Hope.API\bin\Debug\net5.0\Hope.Infrastructure.dll
+D:\Asp.net Adv\HopeAdvanceFebruray\HopeAdvanceFebruray\Hope.API\bin\Debug\net5.0\Hope.IOC.dll
+D:\Asp.net Adv\HopeAdvanceFebruray\HopeAdvanceFebruray\Hope.API\bin\Debug\net5.0\Hope.Repositories.dll
+D:\Asp.net Adv\HopeAdvanceFebruray\HopeAdvanceFebruray\Hope.API\bin\Debug\net5.0\Hope.Infrastructure.pdb
+D:\Asp.net Adv\HopeAdvanceFebruray\HopeAdvanceFebruray\Hope.API\bin\Debug\net5.0\Hope.IOC.pdb
+D:\Asp.net Adv\HopeAdvanceFebruray\HopeAdvanceFebruray\Hope.API\bin\Debug\net5.0\Hope.Repositories.pdb
+D:\Asp.net Adv\HopeAdvanceFebruray\HopeAdvanceFebruray\Hope.API\bin\Debug\net5.0\Hope.DomainEntities.pdb
+D:\Asp.net Adv\HopeAdvanceFebruray\HopeAdvanceFebruray\Hope.API\obj\Debug\net5.0\Hope.API.csproj.AssemblyReference.cache
+D:\Asp.net Adv\HopeAdvanceFebruray\HopeAdvanceFebruray\Hope.API\obj\Debug\net5.0\Hope.API.GeneratedMSBuildEditorConfig.editorconfig
+D:\Asp.net Adv\HopeAdvanceFebruray\HopeAdvanceFebruray\Hope.API\obj\Debug\net5.0\Hope.API.AssemblyInfoInputs.cache
+D:\Asp.net Adv\HopeAdvanceFebruray\HopeAdvanceFebruray\Hope.API\obj\Debug\net5.0\Hope.API.AssemblyInfo.cs
+D:\Asp.net Adv\HopeAdvanceFebruray\HopeAdvanceFebruray\Hope.API\obj\Debug\net5.0\Hope.API.csproj.CoreCompileInputs.cache
+D:\Asp.net Adv\HopeAdvanceFebruray\HopeAdvanceFebruray\Hope.API\obj\Debug\net5.0\Hope.API.MvcApplicationPartsAssemblyInfo.cs
+D:\Asp.net Adv\HopeAdvanceFebruray\HopeAdvanceFebruray\Hope.API\obj\Debug\net5.0\Hope.API.MvcApplicationPartsAssemblyInfo.cache
+D:\Asp.net Adv\HopeAdvanceFebruray\HopeAdvanceFebruray\Hope.API\obj\Debug\net5.0\scopedcss\bundle\Hope.API.styles.css
+D:\Asp.net Adv\HopeAdvanceFebruray\HopeAdvanceFebruray\Hope.API\obj\Debug\net5.0\staticwebassets\Hope.API.StaticWebAssets.Manifest.cache
+D:\Asp.net Adv\HopeAdvanceFebruray\HopeAdvanceFebruray\Hope.API\obj\Debug\net5.0\staticwebassets\Hope.API.StaticWebAssets.Pack.cache
+D:\Asp.net Adv\HopeAdvanceFebruray\HopeAdvanceFebruray\Hope.API\obj\Debug\net5.0\staticwebassets\msbuild.Hope.API.Microsoft.AspNetCore.StaticWebAssets.props
+D:\Asp.net Adv\HopeAdvanceFebruray\HopeAdvanceFebruray\Hope.API\obj\Debug\net5.0\staticwebassets\msbuild.build.Hope.API.props
+D:\Asp.net Adv\HopeAdvanceFebruray\HopeAdvanceFebruray\Hope.API\obj\Debug\net5.0\staticwebassets\msbuild.buildMultiTargeting.Hope.API.props
+D:\Asp.net Adv\HopeAdvanceFebruray\HopeAdvanceFebruray\Hope.API\obj\Debug\net5.0\staticwebassets\msbuild.buildTransitive.Hope.API.props
+D:\Asp.net Adv\HopeAdvanceFebruray\HopeAdvanceFebruray\Hope.API\obj\Debug\net5.0\Hope.API.RazorTargetAssemblyInfo.cache
+D:\Asp.net Adv\HopeAdvanceFebruray\HopeAdvanceFebruray\Hope.API\obj\Debug\net5.0\Hope.API.csproj.CopyComplete
+D:\Asp.net Adv\HopeAdvanceFebruray\HopeAdvanceFebruray\Hope.API\obj\Debug\net5.0\Hope.API.dll
+D:\Asp.net Adv\HopeAdvanceFebruray\HopeAdvanceFebruray\Hope.API\obj\Debug\net5.0\refint\Hope.API.dll
+D:\Asp.net Adv\HopeAdvanceFebruray\HopeAdvanceFebruray\Hope.API\obj\Debug\net5.0\Hope.API.pdb
+D:\Asp.net Adv\HopeAdvanceFebruray\HopeAdvanceFebruray\Hope.API\obj\Debug\net5.0\Hope.API.genruntimeconfig.cache
+D:\Asp.net Adv\HopeAdvanceFebruray\HopeAdvanceFebruray\Hope.API\obj\Debug\net5.0\ref\Hope.API.dll
+D:\Cursese.net\Asp.net Adv\HopeAdvanceFebruray\HopeAdvanceFebruray\Hope.API\bin\Debug\net5.0\appsettings.Development.json
+D:\Cursese.net\Asp.net Adv\HopeAdvanceFebruray\HopeAdvanceFebruray\Hope.API\bin\Debug\net5.0\appsettings.json
+D:\Cursese.net\Asp.net Adv\HopeAdvanceFebruray\HopeAdvanceFebruray\Hope.API\bin\Debug\net5.0\Hope.API.StaticWebAssets.xml
+D:\Cursese.net\Asp.net Adv\HopeAdvanceFebruray\HopeAdvanceFebruray\Hope.API\bin\Debug\net5.0\Hope.API.exe
+D:\Cursese.net\Asp.net Adv\HopeAdvanceFebruray\HopeAdvanceFebruray\Hope.API\bin\Debug\net5.0\Hope.API.deps.json
+D:\Cursese.net\Asp.net Adv\HopeAdvanceFebruray\HopeAdvanceFebruray\Hope.API\bin\Debug\net5.0\Hope.API.runtimeconfig.json
+D:\Cursese.net\Asp.net Adv\HopeAdvanceFebruray\HopeAdvanceFebruray\Hope.API\bin\Debug\net5.0\Hope.API.runtimeconfig.dev.json
+D:\Cursese.net\Asp.net Adv\HopeAdvanceFebruray\HopeAdvanceFebruray\Hope.API\bin\Debug\net5.0\Hope.API.dll
+D:\Cursese.net\Asp.net Adv\HopeAdvanceFebruray\HopeAdvanceFebruray\Hope.API\bin\Debug\net5.0\Hope.API.pdb
+D:\Cursese.net\Asp.net Adv\HopeAdvanceFebruray\HopeAdvanceFebruray\Hope.API\bin\Debug\net5.0\Microsoft.AspNetCore.JsonPatch.dll
+D:\Cursese.net\Asp.net Adv\HopeAdvanceFebruray\HopeAdvanceFebruray\Hope.API\bin\Debug\net5.0\Microsoft.Data.SqlClient.dll
+D:\Cursese.net\Asp.net Adv\HopeAdvanceFebruray\HopeAdvanceFebruray\Hope.API\bin\Debug\net5.0\Microsoft.DotNet.PlatformAbstractions.dll
+D:\Cursese.net\Asp.net Adv\HopeAdvanceFebruray\HopeAdvanceFebruray\Hope.API\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+D:\Cursese.net\Asp.net Adv\HopeAdvanceFebruray\HopeAdvanceFebruray\Hope.API\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\Cursese.net\Asp.net Adv\HopeAdvanceFebruray\HopeAdvanceFebruray\Hope.API\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\Cursese.net\Asp.net Adv\HopeAdvanceFebruray\HopeAdvanceFebruray\Hope.API\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\Cursese.net\Asp.net Adv\HopeAdvanceFebruray\HopeAdvanceFebruray\Hope.API\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+D:\Cursese.net\Asp.net Adv\HopeAdvanceFebruray\HopeAdvanceFebruray\Hope.API\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\Cursese.net\Asp.net Adv\HopeAdvanceFebruray\HopeAdvanceFebruray\Hope.API\bin\Debug\net5.0\Microsoft.Extensions.DependencyModel.dll
+D:\Cursese.net\Asp.net Adv\HopeAdvanceFebruray\HopeAdvanceFebruray\Hope.API\bin\Debug\net5.0\Microsoft.Identity.Client.dll
+D:\Cursese.net\Asp.net Adv\HopeAdvanceFebruray\HopeAdvanceFebruray\Hope.API\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\Cursese.net\Asp.net Adv\HopeAdvanceFebruray\HopeAdvanceFebruray\Hope.API\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+D:\Cursese.net\Asp.net Adv\HopeAdvanceFebruray\HopeAdvanceFebruray\Hope.API\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+D:\Cursese.net\Asp.net Adv\HopeAdvanceFebruray\HopeAdvanceFebruray\Hope.API\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\Cursese.net\Asp.net Adv\HopeAdvanceFebruray\HopeAdvanceFebruray\Hope.API\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+D:\Cursese.net\Asp.net Adv\HopeAdvanceFebruray\HopeAdvanceFebruray\Hope.API\bin\Debug\net5.0\Newtonsoft.Json.dll
+D:\Cursese.net\Asp.net Adv\HopeAdvanceFebruray\HopeAdvanceFebruray\Hope.API\bin\Debug\net5.0\Newtonsoft.Json.Bson.dll
+D:\Cursese.net\Asp.net Adv\HopeAdvanceFebruray\HopeAdvanceFebruray\Hope.API\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+D:\Cursese.net\Asp.net Adv\HopeAdvanceFebruray\HopeAdvanceFebruray\Hope.API\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
+D:\Cursese.net\Asp.net Adv\HopeAdvanceFebruray\HopeAdvanceFebruray\Hope.API\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+D:\Cursese.net\Asp.net Adv\HopeAdvanceFebruray\HopeAdvanceFebruray\Hope.API\bin\Debug\net5.0\System.Runtime.Caching.dll
+D:\Cursese.net\Asp.net Adv\HopeAdvanceFebruray\HopeAdvanceFebruray\Hope.API\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+D:\Cursese.net\Asp.net Adv\HopeAdvanceFebruray\HopeAdvanceFebruray\Hope.API\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\Cursese.net\Asp.net Adv\HopeAdvanceFebruray\HopeAdvanceFebruray\Hope.API\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\Cursese.net\Asp.net Adv\HopeAdvanceFebruray\HopeAdvanceFebruray\Hope.API\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Cursese.net\Asp.net Adv\HopeAdvanceFebruray\HopeAdvanceFebruray\Hope.API\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\Cursese.net\Asp.net Adv\HopeAdvanceFebruray\HopeAdvanceFebruray\Hope.API\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Cursese.net\Asp.net Adv\HopeAdvanceFebruray\HopeAdvanceFebruray\Hope.API\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\Cursese.net\Asp.net Adv\HopeAdvanceFebruray\HopeAdvanceFebruray\Hope.API\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Cursese.net\Asp.net Adv\HopeAdvanceFebruray\HopeAdvanceFebruray\Hope.API\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\Cursese.net\Asp.net Adv\HopeAdvanceFebruray\HopeAdvanceFebruray\Hope.API\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Cursese.net\Asp.net Adv\HopeAdvanceFebruray\HopeAdvanceFebruray\Hope.API\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\Cursese.net\Asp.net Adv\HopeAdvanceFebruray\HopeAdvanceFebruray\Hope.API\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+D:\Cursese.net\Asp.net Adv\HopeAdvanceFebruray\HopeAdvanceFebruray\Hope.API\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\Cursese.net\Asp.net Adv\HopeAdvanceFebruray\HopeAdvanceFebruray\Hope.API\bin\Debug\net5.0\Hope.DomainEntities.dll
+D:\Cursese.net\Asp.net Adv\HopeAdvanceFebruray\HopeAdvanceFebruray\Hope.API\bin\Debug\net5.0\Hope.Infrastructure.dll
+D:\Cursese.net\Asp.net Adv\HopeAdvanceFebruray\HopeAdvanceFebruray\Hope.API\bin\Debug\net5.0\Hope.IOC.dll
+D:\Cursese.net\Asp.net Adv\HopeAdvanceFebruray\HopeAdvanceFebruray\Hope.API\bin\Debug\net5.0\Hope.Repositories.dll
+D:\Cursese.net\Asp.net Adv\HopeAdvanceFebruray\HopeAdvanceFebruray\Hope.API\bin\Debug\net5.0\Hope.Infrastructure.pdb
+D:\Cursese.net\Asp.net Adv\HopeAdvanceFebruray\HopeAdvanceFebruray\Hope.API\bin\Debug\net5.0\Hope.IOC.pdb
+D:\Cursese.net\Asp.net Adv\HopeAdvanceFebruray\HopeAdvanceFebruray\Hope.API\bin\Debug\net5.0\Hope.Repositories.pdb
+D:\Cursese.net\Asp.net Adv\HopeAdvanceFebruray\HopeAdvanceFebruray\Hope.API\bin\Debug\net5.0\Hope.DomainEntities.pdb
+D:\Cursese.net\Asp.net Adv\HopeAdvanceFebruray\HopeAdvanceFebruray\Hope.API\obj\Debug\net5.0\Hope.API.csproj.AssemblyReference.cache
+D:\Cursese.net\Asp.net Adv\HopeAdvanceFebruray\HopeAdvanceFebruray\Hope.API\obj\Debug\net5.0\Hope.API.GeneratedMSBuildEditorConfig.editorconfig
+D:\Cursese.net\Asp.net Adv\HopeAdvanceFebruray\HopeAdvanceFebruray\Hope.API\obj\Debug\net5.0\Hope.API.AssemblyInfoInputs.cache
+D:\Cursese.net\Asp.net Adv\HopeAdvanceFebruray\HopeAdvanceFebruray\Hope.API\obj\Debug\net5.0\Hope.API.AssemblyInfo.cs
+D:\Cursese.net\Asp.net Adv\HopeAdvanceFebruray\HopeAdvanceFebruray\Hope.API\obj\Debug\net5.0\Hope.API.csproj.CoreCompileInputs.cache
+D:\Cursese.net\Asp.net Adv\HopeAdvanceFebruray\HopeAdvanceFebruray\Hope.API\obj\Debug\net5.0\Hope.API.MvcApplicationPartsAssemblyInfo.cs
+D:\Cursese.net\Asp.net Adv\HopeAdvanceFebruray\HopeAdvanceFebruray\Hope.API\obj\Debug\net5.0\Hope.API.MvcApplicationPartsAssemblyInfo.cache
+D:\Cursese.net\Asp.net Adv\HopeAdvanceFebruray\HopeAdvanceFebruray\Hope.API\obj\Debug\net5.0\scopedcss\bundle\Hope.API.styles.css
+D:\Cursese.net\Asp.net Adv\HopeAdvanceFebruray\HopeAdvanceFebruray\Hope.API\obj\Debug\net5.0\staticwebassets\Hope.API.StaticWebAssets.Manifest.cache
+D:\Cursese.net\Asp.net Adv\HopeAdvanceFebruray\HopeAdvanceFebruray\Hope.API\obj\Debug\net5.0\staticwebassets\Hope.API.StaticWebAssets.Pack.cache
+D:\Cursese.net\Asp.net Adv\HopeAdvanceFebruray\HopeAdvanceFebruray\Hope.API\obj\Debug\net5.0\staticwebassets\msbuild.Hope.API.Microsoft.AspNetCore.StaticWebAssets.props
+D:\Cursese.net\Asp.net Adv\HopeAdvanceFebruray\HopeAdvanceFebruray\Hope.API\obj\Debug\net5.0\staticwebassets\msbuild.build.Hope.API.props
+D:\Cursese.net\Asp.net Adv\HopeAdvanceFebruray\HopeAdvanceFebruray\Hope.API\obj\Debug\net5.0\staticwebassets\msbuild.buildMultiTargeting.Hope.API.props
+D:\Cursese.net\Asp.net Adv\HopeAdvanceFebruray\HopeAdvanceFebruray\Hope.API\obj\Debug\net5.0\staticwebassets\msbuild.buildTransitive.Hope.API.props
+D:\Cursese.net\Asp.net Adv\HopeAdvanceFebruray\HopeAdvanceFebruray\Hope.API\obj\Debug\net5.0\Hope.API.RazorTargetAssemblyInfo.cache
+D:\Cursese.net\Asp.net Adv\HopeAdvanceFebruray\HopeAdvanceFebruray\Hope.API\obj\Debug\net5.0\Hope.API.csproj.CopyComplete
+D:\Cursese.net\Asp.net Adv\HopeAdvanceFebruray\HopeAdvanceFebruray\Hope.API\obj\Debug\net5.0\Hope.API.dll
+D:\Cursese.net\Asp.net Adv\HopeAdvanceFebruray\HopeAdvanceFebruray\Hope.API\obj\Debug\net5.0\refint\Hope.API.dll
+D:\Cursese.net\Asp.net Adv\HopeAdvanceFebruray\HopeAdvanceFebruray\Hope.API\obj\Debug\net5.0\Hope.API.pdb
+D:\Cursese.net\Asp.net Adv\HopeAdvanceFebruray\HopeAdvanceFebruray\Hope.API\obj\Debug\net5.0\Hope.API.genruntimeconfig.cache
+D:\Cursese.net\Asp.net Adv\HopeAdvanceFebruray\HopeAdvanceFebruray\Hope.API\obj\Debug\net5.0\ref\Hope.API.dll

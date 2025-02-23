@@ -1,0 +1,408 @@
+{
+  "format": 1,
+  "restore": {
+    "D:\\Cursese.net\\Asp.net Adv\\HopeAdvanceFebruray\\HopeAdvanceFebruray\\Hope.API\\Hope.API.csproj": {}
+  },
+  "projects": {
+    "D:\\Cursese.net\\Asp.net Adv\\HopeAdvanceFebruray\\HopeAdvanceFebruray\\Hope.API\\Hope.API.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\Cursese.net\\Asp.net Adv\\HopeAdvanceFebruray\\HopeAdvanceFebruray\\Hope.API\\Hope.API.csproj",
+        "projectName": "Hope.API",
+        "projectPath": "D:\\Cursese.net\\Asp.net Adv\\HopeAdvanceFebruray\\HopeAdvanceFebruray\\Hope.API\\Hope.API.csproj",
+        "packagesPath": "C:\\Users\\User\\.nuget\\packages\\",
+        "outputPath": "D:\\Cursese.net\\Asp.net Adv\\HopeAdvanceFebruray\\HopeAdvanceFebruray\\Hope.API\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\User\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net5.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net5.0": {
+            "targetAlias": "net5.0",
+            "projectReferences": {
+              "D:\\Cursese.net\\Asp.net Adv\\HopeAdvanceFebruray\\HopeAdvanceFebruray\\Hope.Infrastructure\\Hope.Infrastructure.csproj": {
+                "projectPath": "D:\\Cursese.net\\Asp.net Adv\\HopeAdvanceFebruray\\HopeAdvanceFebruray\\Hope.Infrastructure\\Hope.Infrastructure.csproj"
+              },
+              "D:\\Cursese.net\\Asp.net Adv\\HopeAdvanceFebruray\\HopeAdvanceFebruray\\Hope.IOC\\Hope.IOC.csproj": {
+                "projectPath": "D:\\Cursese.net\\Asp.net Adv\\HopeAdvanceFebruray\\HopeAdvanceFebruray\\Hope.IOC\\Hope.IOC.csproj"
+              },
+              "D:\\Cursese.net\\Asp.net Adv\\HopeAdvanceFebruray\\HopeAdvanceFebruray\\Hope.Repositories\\Hope.Repositories.csproj": {
+                "projectPath": "D:\\Cursese.net\\Asp.net Adv\\HopeAdvanceFebruray\\HopeAdvanceFebruray\\Hope.Repositories\\Hope.Repositories.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "downloadDependencies": [
+            {
+              "name": "Microsoft.AspNetCore.App.Ref",
+              "version": "[5.0.0, 5.0.0]"
+            },
+            {
+              "name": "Microsoft.NETCore.App.Host.win-x64",
+              "version": "[5.0.17, 5.0.17]"
+            },
+            {
+              "name": "Microsoft.NETCore.App.Ref",
+              "version": "[5.0.0, 5.0.0]"
+            },
+            {
+              "name": "Microsoft.WindowsDesktop.App.Ref",
+              "version": "[5.0.0, 5.0.0]"
+            }
+          ],
+          "frameworkReferences": {
+            "Microsoft.AspNetCore.App": {
+              "privateAssets": "none"
+            },
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.401\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "D:\\Cursese.net\\Asp.net Adv\\HopeAdvanceFebruray\\HopeAdvanceFebruray\\Hope.DomainEntities\\Hope.DomainEntities.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\Cursese.net\\Asp.net Adv\\HopeAdvanceFebruray\\HopeAdvanceFebruray\\Hope.DomainEntities\\Hope.DomainEntities.csproj",
+        "projectName": "Hope.DomainEntities",
+        "projectPath": "D:\\Cursese.net\\Asp.net Adv\\HopeAdvanceFebruray\\HopeAdvanceFebruray\\Hope.DomainEntities\\Hope.DomainEntities.csproj",
+        "packagesPath": "C:\\Users\\User\\.nuget\\packages\\",
+        "outputPath": "D:\\Cursese.net\\Asp.net Adv\\HopeAdvanceFebruray\\HopeAdvanceFebruray\\Hope.DomainEntities\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\User\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net5.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net5.0": {
+            "targetAlias": "net5.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "dependencies": {
+            "Microsoft.EntityFrameworkCore.SqlServer": {
+              "target": "Package",
+              "version": "[5.0.17, )"
+            },
+            "Microsoft.EntityFrameworkCore.Tools": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[5.0.17, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "downloadDependencies": [
+            {
+              "name": "Microsoft.AspNetCore.App.Ref",
+              "version": "[5.0.0, 5.0.0]"
+            },
+            {
+              "name": "Microsoft.NETCore.App.Ref",
+              "version": "[5.0.0, 5.0.0]"
+            },
+            {
+              "name": "Microsoft.WindowsDesktop.App.Ref",
+              "version": "[5.0.0, 5.0.0]"
+            }
+          ],
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.401\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "D:\\Cursese.net\\Asp.net Adv\\HopeAdvanceFebruray\\HopeAdvanceFebruray\\Hope.Infrastructure\\Hope.Infrastructure.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\Cursese.net\\Asp.net Adv\\HopeAdvanceFebruray\\HopeAdvanceFebruray\\Hope.Infrastructure\\Hope.Infrastructure.csproj",
+        "projectName": "Hope.Infrastructure",
+        "projectPath": "D:\\Cursese.net\\Asp.net Adv\\HopeAdvanceFebruray\\HopeAdvanceFebruray\\Hope.Infrastructure\\Hope.Infrastructure.csproj",
+        "packagesPath": "C:\\Users\\User\\.nuget\\packages\\",
+        "outputPath": "D:\\Cursese.net\\Asp.net Adv\\HopeAdvanceFebruray\\HopeAdvanceFebruray\\Hope.Infrastructure\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\User\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net5.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net5.0": {
+            "targetAlias": "net5.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "dependencies": {
+            "Microsoft.AspNetCore.Mvc.ViewFeatures": {
+              "target": "Package",
+              "version": "[2.2.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "downloadDependencies": [
+            {
+              "name": "Microsoft.AspNetCore.App.Ref",
+              "version": "[5.0.0, 5.0.0]"
+            },
+            {
+              "name": "Microsoft.NETCore.App.Ref",
+              "version": "[5.0.0, 5.0.0]"
+            },
+            {
+              "name": "Microsoft.WindowsDesktop.App.Ref",
+              "version": "[5.0.0, 5.0.0]"
+            }
+          ],
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.401\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "D:\\Cursese.net\\Asp.net Adv\\HopeAdvanceFebruray\\HopeAdvanceFebruray\\Hope.IOC\\Hope.IOC.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\Cursese.net\\Asp.net Adv\\HopeAdvanceFebruray\\HopeAdvanceFebruray\\Hope.IOC\\Hope.IOC.csproj",
+        "projectName": "Hope.IOC",
+        "projectPath": "D:\\Cursese.net\\Asp.net Adv\\HopeAdvanceFebruray\\HopeAdvanceFebruray\\Hope.IOC\\Hope.IOC.csproj",
+        "packagesPath": "C:\\Users\\User\\.nuget\\packages\\",
+        "outputPath": "D:\\Cursese.net\\Asp.net Adv\\HopeAdvanceFebruray\\HopeAdvanceFebruray\\Hope.IOC\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\User\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net5.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net5.0": {
+            "targetAlias": "net5.0",
+            "projectReferences": {
+              "D:\\Cursese.net\\Asp.net Adv\\HopeAdvanceFebruray\\HopeAdvanceFebruray\\Hope.Repositories\\Hope.Repositories.csproj": {
+                "projectPath": "D:\\Cursese.net\\Asp.net Adv\\HopeAdvanceFebruray\\HopeAdvanceFebruray\\Hope.Repositories\\Hope.Repositories.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "dependencies": {
+            "Microsoft.Extensions.DependencyInjection.Abstractions": {
+              "target": "Package",
+              "version": "[8.0.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "downloadDependencies": [
+            {
+              "name": "Microsoft.AspNetCore.App.Ref",
+              "version": "[5.0.0, 5.0.0]"
+            },
+            {
+              "name": "Microsoft.NETCore.App.Ref",
+              "version": "[5.0.0, 5.0.0]"
+            },
+            {
+              "name": "Microsoft.WindowsDesktop.App.Ref",
+              "version": "[5.0.0, 5.0.0]"
+            }
+          ],
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.401\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "D:\\Cursese.net\\Asp.net Adv\\HopeAdvanceFebruray\\HopeAdvanceFebruray\\Hope.Repositories\\Hope.Repositories.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\Cursese.net\\Asp.net Adv\\HopeAdvanceFebruray\\HopeAdvanceFebruray\\Hope.Repositories\\Hope.Repositories.csproj",
+        "projectName": "Hope.Repositories",
+        "projectPath": "D:\\Cursese.net\\Asp.net Adv\\HopeAdvanceFebruray\\HopeAdvanceFebruray\\Hope.Repositories\\Hope.Repositories.csproj",
+        "packagesPath": "C:\\Users\\User\\.nuget\\packages\\",
+        "outputPath": "D:\\Cursese.net\\Asp.net Adv\\HopeAdvanceFebruray\\HopeAdvanceFebruray\\Hope.Repositories\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\User\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net5.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net5.0": {
+            "targetAlias": "net5.0",
+            "projectReferences": {
+              "D:\\Cursese.net\\Asp.net Adv\\HopeAdvanceFebruray\\HopeAdvanceFebruray\\Hope.DomainEntities\\Hope.DomainEntities.csproj": {
+                "projectPath": "D:\\Cursese.net\\Asp.net Adv\\HopeAdvanceFebruray\\HopeAdvanceFebruray\\Hope.DomainEntities\\Hope.DomainEntities.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "dependencies": {
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[5.0.17, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "downloadDependencies": [
+            {
+              "name": "Microsoft.AspNetCore.App.Ref",
+              "version": "[5.0.0, 5.0.0]"
+            },
+            {
+              "name": "Microsoft.NETCore.App.Ref",
+              "version": "[5.0.0, 5.0.0]"
+            },
+            {
+              "name": "Microsoft.WindowsDesktop.App.Ref",
+              "version": "[5.0.0, 5.0.0]"
+            }
+          ],
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.401\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

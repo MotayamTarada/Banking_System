@@ -1,0 +1,51 @@
+D:\TheHope\Project_SourceCode\HopeAdvanceFebruray\Hope.IOC\bin\Debug\net5.0\Hope.IOC.deps.json
+D:\TheHope\Project_SourceCode\HopeAdvanceFebruray\Hope.IOC\bin\Debug\net5.0\Hope.IOC.dll
+D:\TheHope\Project_SourceCode\HopeAdvanceFebruray\Hope.IOC\bin\Debug\net5.0\ref\Hope.IOC.dll
+D:\TheHope\Project_SourceCode\HopeAdvanceFebruray\Hope.IOC\bin\Debug\net5.0\Hope.IOC.pdb
+D:\TheHope\Project_SourceCode\HopeAdvanceFebruray\Hope.IOC\bin\Debug\net5.0\Hope.DomainEntities.dll
+D:\TheHope\Project_SourceCode\HopeAdvanceFebruray\Hope.IOC\bin\Debug\net5.0\Hope.Repositories.dll
+D:\TheHope\Project_SourceCode\HopeAdvanceFebruray\Hope.IOC\bin\Debug\net5.0\Hope.Repositories.pdb
+D:\TheHope\Project_SourceCode\HopeAdvanceFebruray\Hope.IOC\bin\Debug\net5.0\Hope.DomainEntities.pdb
+D:\TheHope\Project_SourceCode\HopeAdvanceFebruray\Hope.IOC\obj\Debug\net5.0\Hope.IOC.csprojAssemblyReference.cache
+D:\TheHope\Project_SourceCode\HopeAdvanceFebruray\Hope.IOC\obj\Debug\net5.0\Hope.IOC.GeneratedMSBuildEditorConfig.editorconfig
+D:\TheHope\Project_SourceCode\HopeAdvanceFebruray\Hope.IOC\obj\Debug\net5.0\Hope.IOC.AssemblyInfoInputs.cache
+D:\TheHope\Project_SourceCode\HopeAdvanceFebruray\Hope.IOC\obj\Debug\net5.0\Hope.IOC.AssemblyInfo.cs
+D:\TheHope\Project_SourceCode\HopeAdvanceFebruray\Hope.IOC\obj\Debug\net5.0\Hope.IOC.csproj.CoreCompileInputs.cache
+D:\TheHope\Project_SourceCode\HopeAdvanceFebruray\Hope.IOC\obj\Debug\net5.0\Hope.IOC.csproj.CopyComplete
+D:\TheHope\Project_SourceCode\HopeAdvanceFebruray\Hope.IOC\obj\Debug\net5.0\Hope.IOC.dll
+D:\TheHope\Project_SourceCode\HopeAdvanceFebruray\Hope.IOC\obj\Debug\net5.0\ref\Hope.IOC.dll
+D:\TheHope\Project_SourceCode\HopeAdvanceFebruray\Hope.IOC\obj\Debug\net5.0\Hope.IOC.pdb
+D:\Asp.net Adv\HopeAdvanceFebruray\HopeAdvanceFebruray\Hope.IOC\bin\Debug\net5.0\Hope.IOC.deps.json
+D:\Asp.net Adv\HopeAdvanceFebruray\HopeAdvanceFebruray\Hope.IOC\bin\Debug\net5.0\Hope.IOC.dll
+D:\Asp.net Adv\HopeAdvanceFebruray\HopeAdvanceFebruray\Hope.IOC\bin\Debug\net5.0\Hope.IOC.pdb
+D:\Asp.net Adv\HopeAdvanceFebruray\HopeAdvanceFebruray\Hope.IOC\bin\Debug\net5.0\Hope.DomainEntities.dll
+D:\Asp.net Adv\HopeAdvanceFebruray\HopeAdvanceFebruray\Hope.IOC\bin\Debug\net5.0\Hope.Repositories.dll
+D:\Asp.net Adv\HopeAdvanceFebruray\HopeAdvanceFebruray\Hope.IOC\bin\Debug\net5.0\Hope.Repositories.pdb
+D:\Asp.net Adv\HopeAdvanceFebruray\HopeAdvanceFebruray\Hope.IOC\bin\Debug\net5.0\Hope.DomainEntities.pdb
+D:\Asp.net Adv\HopeAdvanceFebruray\HopeAdvanceFebruray\Hope.IOC\obj\Debug\net5.0\Hope.IOC.csproj.AssemblyReference.cache
+D:\Asp.net Adv\HopeAdvanceFebruray\HopeAdvanceFebruray\Hope.IOC\obj\Debug\net5.0\Hope.IOC.GeneratedMSBuildEditorConfig.editorconfig
+D:\Asp.net Adv\HopeAdvanceFebruray\HopeAdvanceFebruray\Hope.IOC\obj\Debug\net5.0\Hope.IOC.AssemblyInfoInputs.cache
+D:\Asp.net Adv\HopeAdvanceFebruray\HopeAdvanceFebruray\Hope.IOC\obj\Debug\net5.0\Hope.IOC.AssemblyInfo.cs
+D:\Asp.net Adv\HopeAdvanceFebruray\HopeAdvanceFebruray\Hope.IOC\obj\Debug\net5.0\Hope.IOC.csproj.CoreCompileInputs.cache
+D:\Asp.net Adv\HopeAdvanceFebruray\HopeAdvanceFebruray\Hope.IOC\obj\Debug\net5.0\Hope.IOC.csproj.CopyComplete
+D:\Asp.net Adv\HopeAdvanceFebruray\HopeAdvanceFebruray\Hope.IOC\obj\Debug\net5.0\Hope.IOC.dll
+D:\Asp.net Adv\HopeAdvanceFebruray\HopeAdvanceFebruray\Hope.IOC\obj\Debug\net5.0\refint\Hope.IOC.dll
+D:\Asp.net Adv\HopeAdvanceFebruray\HopeAdvanceFebruray\Hope.IOC\obj\Debug\net5.0\Hope.IOC.pdb
+D:\Asp.net Adv\HopeAdvanceFebruray\HopeAdvanceFebruray\Hope.IOC\obj\Debug\net5.0\ref\Hope.IOC.dll
+D:\Cursese.net\Asp.net Adv\HopeAdvanceFebruray\HopeAdvanceFebruray\Hope.IOC\bin\Debug\net5.0\Hope.IOC.deps.json
+D:\Cursese.net\Asp.net Adv\HopeAdvanceFebruray\HopeAdvanceFebruray\Hope.IOC\bin\Debug\net5.0\Hope.IOC.dll
+D:\Cursese.net\Asp.net Adv\HopeAdvanceFebruray\HopeAdvanceFebruray\Hope.IOC\bin\Debug\net5.0\Hope.IOC.pdb
+D:\Cursese.net\Asp.net Adv\HopeAdvanceFebruray\HopeAdvanceFebruray\Hope.IOC\bin\Debug\net5.0\Hope.DomainEntities.dll
+D:\Cursese.net\Asp.net Adv\HopeAdvanceFebruray\HopeAdvanceFebruray\Hope.IOC\bin\Debug\net5.0\Hope.Repositories.dll
+D:\Cursese.net\Asp.net Adv\HopeAdvanceFebruray\HopeAdvanceFebruray\Hope.IOC\bin\Debug\net5.0\Hope.Repositories.pdb
+D:\Cursese.net\Asp.net Adv\HopeAdvanceFebruray\HopeAdvanceFebruray\Hope.IOC\bin\Debug\net5.0\Hope.DomainEntities.pdb
+D:\Cursese.net\Asp.net Adv\HopeAdvanceFebruray\HopeAdvanceFebruray\Hope.IOC\obj\Debug\net5.0\Hope.IOC.csproj.AssemblyReference.cache
+D:\Cursese.net\Asp.net Adv\HopeAdvanceFebruray\HopeAdvanceFebruray\Hope.IOC\obj\Debug\net5.0\Hope.IOC.GeneratedMSBuildEditorConfig.editorconfig
+D:\Cursese.net\Asp.net Adv\HopeAdvanceFebruray\HopeAdvanceFebruray\Hope.IOC\obj\Debug\net5.0\Hope.IOC.AssemblyInfoInputs.cache
+D:\Cursese.net\Asp.net Adv\HopeAdvanceFebruray\HopeAdvanceFebruray\Hope.IOC\obj\Debug\net5.0\Hope.IOC.AssemblyInfo.cs
+D:\Cursese.net\Asp.net Adv\HopeAdvanceFebruray\HopeAdvanceFebruray\Hope.IOC\obj\Debug\net5.0\Hope.IOC.csproj.CoreCompileInputs.cache
+D:\Cursese.net\Asp.net Adv\HopeAdvanceFebruray\HopeAdvanceFebruray\Hope.IOC\obj\Debug\net5.0\Hope.IOC.csproj.CopyComplete
+D:\Cursese.net\Asp.net Adv\HopeAdvanceFebruray\HopeAdvanceFebruray\Hope.IOC\obj\Debug\net5.0\Hope.IOC.dll
+D:\Cursese.net\Asp.net Adv\HopeAdvanceFebruray\HopeAdvanceFebruray\Hope.IOC\obj\Debug\net5.0\refint\Hope.IOC.dll
+D:\Cursese.net\Asp.net Adv\HopeAdvanceFebruray\HopeAdvanceFebruray\Hope.IOC\obj\Debug\net5.0\Hope.IOC.pdb
+D:\Cursese.net\Asp.net Adv\HopeAdvanceFebruray\HopeAdvanceFebruray\Hope.IOC\obj\Debug\net5.0\ref\Hope.IOC.dll

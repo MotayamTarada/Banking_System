@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "+yfHcdhyR+00s18BO2CKCHS5nP+lrSpI+oSwc/SJ+oXEhRWuzSO3rSKlYSyHVjwDAXotUy0IGBpgidVaGe0Jwg==",
+  "success": true,
+  "projectFilePath": "D:\\Cursese.net\\Asp.net Adv\\HopeAdvanceFebruray\\HopeAdvanceFebruray\\Hope.Common\\Hope.Common.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\User\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\5.0.0\\microsoft.windowsdesktop.app.ref.5.0.0.nupkg.sha512",
+    "C:\\Users\\User\\.nuget\\packages\\microsoft.netcore.app.ref\\5.0.0\\microsoft.netcore.app.ref.5.0.0.nupkg.sha512",
+    "C:\\Users\\User\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\5.0.0\\microsoft.aspnetcore.app.ref.5.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

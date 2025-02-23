@@ -1,0 +1,133 @@
+﻿@*
+    For more information on enabling MVC for empty projects, visit https://go.microsoft.com/fwlink/?LinkID=397860
+*@
+@{
+
+}
+@model Hope.Infrastructure.DTO.ClientDTO;
+<html>
+<head>
+
+</head>
+<body>
+
+    <div class="container-fluid">
+        <div class="container-fluid">
+            <div class="card">
+                <div class="card-body">
+                    <h5 class="card-title fw-semibold mb-4">Add New Client</h5>
+
+                    <div class="card">
+                        <div class="card-body">
+                            <form asp-action="AddNewClient">
+                                <div class="row">
+                                    <div class="col-md-4">
+
+                                        <label class="form-label">Full Name</label>
+                                        <span class="text-danger">*</span>
+                                        <input type="text" class="form-control" onkeypress="return onlyText();" asp-for="FullName" maxlength="50">
+                                        <span asp-validation-for="FullName" class="text-danger"></span>
+                                    </div>
+                                    <div class="col-md-4">
+                                        <label class="form-label">Mobile</label>
+                                        <span class="text-danger">*</span>
+                                        <input type="number" class="form-control" asp-for="Mobile" maxlength="10" >
+                                        <span asp-validation-for="Mobile" class="text-danger"></span>
+                                    </div>
+                                    <div class="col-md-4">
+                                        <label class="form-label">Date Of Birth</label>
+                                        <input id="DOB" type="date" class="form-control" asp-for="DateOfBirth">
+                                        
+                                    </div>
+                                </div>
+
+                                <div class="row">
+                                    <div class="col-md-4">
+
+                                        <label class="form-label">Address</label>
+                                        <span class="text-danger">*</span>
+                                        <input type="text" class="form-control" asp-for="Address">
+                                        <span asp-validation-for="Address" class="text-danger"></span>
+                                    </div>
+                                    <div class="col-md-4">
+                                        <label class="form-label">Register Date</label>
+                                        <span class="text-danger">*</span>
+                                        <input type="date" class="form-control" asp-for="RegisterDate">
+                                        <span asp-validation-for="RegisterDate" class="text-danger"></span>
+                                    </div>
+                                    <div class="col-md-4">
+                                        <label class="form-label">NationalId</label>
+                                        <input type="text" class="form-control" asp-for="NationalId" maxlength="10">
+
+                                    </div>
+                                </div>
+
+                                <div class="row">
+                                    <div class="col-md-4">
+                                        <label class="form-label">Nationality Name</label>
+                                        <span class="text-danger">*</span>
+                                        <select class="form-select" asp-for="NationalityId" asp-items="@(new SelectList(ViewBag.Nationality,"NationalityId","NationalityName"))">
+                                            <option value="">Please Select</option>
+                                        </select>
+                                        <span asp-validation-for="NationalityId" class="text-danger"></span>
+                                    </div>
+                                    <div class="col-md-4">
+                                        <label class="form-label">Passport Number</label>
+                                        <span class="text-danger">*</span>
+                                        <input type="text" class="form-control" asp-for="PassportNumber">
+                                        <span asp-validation-for="PassportNumber" class="text-danger"></span>
+                                    </div>
+                                    <div class="col-md-4">
+                                        <label class="form-label">Email</label>
+                                        <span class="text-danger">*</span>
+                                        <input type="text" class="form-control" asp-for="Email">
+                                        <span asp-validation-for="Email" class="text-danger"></span>
+                                    </div>
+                                </div>
+                                <div class="row">
+                                    <div class="col-md-4">
+                                        <button type="submit" class="btn btn-primary" onclick="return ValidateAge()">Submit</button>
+                                    </div>
+                                </div>
+                            </form>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+    <script type="text/javascript">
+        function onlyText(evt) {
+            var e = event || evt;
+            var charCode = e.which || e.keyCode;
+            if ((charCode > 96 && charCode < 123) || (charCode > 64 && charCode < 91))
+                return true;
+            return false;
+        }
+
+
+        function ValidateAge() {
+            var dob = document.getElementById("DOB").value;
+            var currentDate = new Date();
+            var selectedDate = new Date(dob);
+
+            var minAge = 2;
+
+            var ageDiff = currentDate.getFullYear() - selectedDate.getFullYear();
+
+            if (ageDiff < minAge) {
+
+                alert('Error Date');
+                return false;
+            }
+            return true;
+        }
+
+
+        //function allLetter(inputtxt) {        //    var letters = '/^[A-Za-z]+$/';        //    if (inputtxt.value.match(letters)) {        //        return true;        //    }        //    else {        //        //alert("message");        //        return false;        //    }       // }
+    </script>
+</body>
+@section Scripts {
+    @{await Html.RenderPartialAsync("_ValidationScriptsPartial");}
+}
+</html>

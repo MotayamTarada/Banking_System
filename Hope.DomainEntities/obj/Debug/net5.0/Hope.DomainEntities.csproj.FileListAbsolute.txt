@@ -1,0 +1,45 @@
+D:\TheHope\Project_SourceCode\HopeAdvanceFebruray\Hope.DomainEntities\bin\Debug\net5.0\Hope.DomainEntities.deps.json
+D:\TheHope\Project_SourceCode\HopeAdvanceFebruray\Hope.DomainEntities\bin\Debug\net5.0\Hope.DomainEntities.runtimeconfig.json
+D:\TheHope\Project_SourceCode\HopeAdvanceFebruray\Hope.DomainEntities\bin\Debug\net5.0\Hope.DomainEntities.runtimeconfig.dev.json
+D:\TheHope\Project_SourceCode\HopeAdvanceFebruray\Hope.DomainEntities\bin\Debug\net5.0\Hope.DomainEntities.dll
+D:\TheHope\Project_SourceCode\HopeAdvanceFebruray\Hope.DomainEntities\bin\Debug\net5.0\ref\Hope.DomainEntities.dll
+D:\TheHope\Project_SourceCode\HopeAdvanceFebruray\Hope.DomainEntities\bin\Debug\net5.0\Hope.DomainEntities.pdb
+D:\TheHope\Project_SourceCode\HopeAdvanceFebruray\Hope.DomainEntities\obj\Debug\net5.0\Hope.DomainEntities.csprojAssemblyReference.cache
+D:\TheHope\Project_SourceCode\HopeAdvanceFebruray\Hope.DomainEntities\obj\Debug\net5.0\Hope.DomainEntities.GeneratedMSBuildEditorConfig.editorconfig
+D:\TheHope\Project_SourceCode\HopeAdvanceFebruray\Hope.DomainEntities\obj\Debug\net5.0\Hope.DomainEntities.AssemblyInfoInputs.cache
+D:\TheHope\Project_SourceCode\HopeAdvanceFebruray\Hope.DomainEntities\obj\Debug\net5.0\Hope.DomainEntities.AssemblyInfo.cs
+D:\TheHope\Project_SourceCode\HopeAdvanceFebruray\Hope.DomainEntities\obj\Debug\net5.0\Hope.DomainEntities.csproj.CoreCompileInputs.cache
+D:\TheHope\Project_SourceCode\HopeAdvanceFebruray\Hope.DomainEntities\obj\Debug\net5.0\Hope.DomainEntities.dll
+D:\TheHope\Project_SourceCode\HopeAdvanceFebruray\Hope.DomainEntities\obj\Debug\net5.0\ref\Hope.DomainEntities.dll
+D:\TheHope\Project_SourceCode\HopeAdvanceFebruray\Hope.DomainEntities\obj\Debug\net5.0\Hope.DomainEntities.pdb
+D:\TheHope\Project_SourceCode\HopeAdvanceFebruray\Hope.DomainEntities\obj\Debug\net5.0\Hope.DomainEntities.genruntimeconfig.cache
+D:\Asp.net Adv\HopeAdvanceFebruray\HopeAdvanceFebruray\Hope.DomainEntities\bin\Debug\net5.0\Hope.DomainEntities.deps.json
+D:\Asp.net Adv\HopeAdvanceFebruray\HopeAdvanceFebruray\Hope.DomainEntities\bin\Debug\net5.0\Hope.DomainEntities.runtimeconfig.json
+D:\Asp.net Adv\HopeAdvanceFebruray\HopeAdvanceFebruray\Hope.DomainEntities\bin\Debug\net5.0\Hope.DomainEntities.runtimeconfig.dev.json
+D:\Asp.net Adv\HopeAdvanceFebruray\HopeAdvanceFebruray\Hope.DomainEntities\bin\Debug\net5.0\Hope.DomainEntities.dll
+D:\Asp.net Adv\HopeAdvanceFebruray\HopeAdvanceFebruray\Hope.DomainEntities\bin\Debug\net5.0\Hope.DomainEntities.pdb
+D:\Asp.net Adv\HopeAdvanceFebruray\HopeAdvanceFebruray\Hope.DomainEntities\obj\Debug\net5.0\Hope.DomainEntities.csproj.AssemblyReference.cache
+D:\Asp.net Adv\HopeAdvanceFebruray\HopeAdvanceFebruray\Hope.DomainEntities\obj\Debug\net5.0\Hope.DomainEntities.GeneratedMSBuildEditorConfig.editorconfig
+D:\Asp.net Adv\HopeAdvanceFebruray\HopeAdvanceFebruray\Hope.DomainEntities\obj\Debug\net5.0\Hope.DomainEntities.AssemblyInfoInputs.cache
+D:\Asp.net Adv\HopeAdvanceFebruray\HopeAdvanceFebruray\Hope.DomainEntities\obj\Debug\net5.0\Hope.DomainEntities.AssemblyInfo.cs
+D:\Asp.net Adv\HopeAdvanceFebruray\HopeAdvanceFebruray\Hope.DomainEntities\obj\Debug\net5.0\Hope.DomainEntities.csproj.CoreCompileInputs.cache
+D:\Asp.net Adv\HopeAdvanceFebruray\HopeAdvanceFebruray\Hope.DomainEntities\obj\Debug\net5.0\Hope.DomainEntities.dll
+D:\Asp.net Adv\HopeAdvanceFebruray\HopeAdvanceFebruray\Hope.DomainEntities\obj\Debug\net5.0\refint\Hope.DomainEntities.dll
+D:\Asp.net Adv\HopeAdvanceFebruray\HopeAdvanceFebruray\Hope.DomainEntities\obj\Debug\net5.0\Hope.DomainEntities.pdb
+D:\Asp.net Adv\HopeAdvanceFebruray\HopeAdvanceFebruray\Hope.DomainEntities\obj\Debug\net5.0\Hope.DomainEntities.genruntimeconfig.cache
+D:\Asp.net Adv\HopeAdvanceFebruray\HopeAdvanceFebruray\Hope.DomainEntities\obj\Debug\net5.0\ref\Hope.DomainEntities.dll
+D:\Cursese.net\Asp.net Adv\HopeAdvanceFebruray\HopeAdvanceFebruray\Hope.DomainEntities\bin\Debug\net5.0\Hope.DomainEntities.deps.json
+D:\Cursese.net\Asp.net Adv\HopeAdvanceFebruray\HopeAdvanceFebruray\Hope.DomainEntities\bin\Debug\net5.0\Hope.DomainEntities.runtimeconfig.json
+D:\Cursese.net\Asp.net Adv\HopeAdvanceFebruray\HopeAdvanceFebruray\Hope.DomainEntities\bin\Debug\net5.0\Hope.DomainEntities.runtimeconfig.dev.json
+D:\Cursese.net\Asp.net Adv\HopeAdvanceFebruray\HopeAdvanceFebruray\Hope.DomainEntities\bin\Debug\net5.0\Hope.DomainEntities.dll
+D:\Cursese.net\Asp.net Adv\HopeAdvanceFebruray\HopeAdvanceFebruray\Hope.DomainEntities\bin\Debug\net5.0\Hope.DomainEntities.pdb
+D:\Cursese.net\Asp.net Adv\HopeAdvanceFebruray\HopeAdvanceFebruray\Hope.DomainEntities\obj\Debug\net5.0\Hope.DomainEntities.csproj.AssemblyReference.cache
+D:\Cursese.net\Asp.net Adv\HopeAdvanceFebruray\HopeAdvanceFebruray\Hope.DomainEntities\obj\Debug\net5.0\Hope.DomainEntities.GeneratedMSBuildEditorConfig.editorconfig
+D:\Cursese.net\Asp.net Adv\HopeAdvanceFebruray\HopeAdvanceFebruray\Hope.DomainEntities\obj\Debug\net5.0\Hope.DomainEntities.AssemblyInfoInputs.cache
+D:\Cursese.net\Asp.net Adv\HopeAdvanceFebruray\HopeAdvanceFebruray\Hope.DomainEntities\obj\Debug\net5.0\Hope.DomainEntities.AssemblyInfo.cs
+D:\Cursese.net\Asp.net Adv\HopeAdvanceFebruray\HopeAdvanceFebruray\Hope.DomainEntities\obj\Debug\net5.0\Hope.DomainEntities.csproj.CoreCompileInputs.cache
+D:\Cursese.net\Asp.net Adv\HopeAdvanceFebruray\HopeAdvanceFebruray\Hope.DomainEntities\obj\Debug\net5.0\Hope.DomainEntities.dll
+D:\Cursese.net\Asp.net Adv\HopeAdvanceFebruray\HopeAdvanceFebruray\Hope.DomainEntities\obj\Debug\net5.0\refint\Hope.DomainEntities.dll
+D:\Cursese.net\Asp.net Adv\HopeAdvanceFebruray\HopeAdvanceFebruray\Hope.DomainEntities\obj\Debug\net5.0\Hope.DomainEntities.pdb
+D:\Cursese.net\Asp.net Adv\HopeAdvanceFebruray\HopeAdvanceFebruray\Hope.DomainEntities\obj\Debug\net5.0\Hope.DomainEntities.genruntimeconfig.cache
+D:\Cursese.net\Asp.net Adv\HopeAdvanceFebruray\HopeAdvanceFebruray\Hope.DomainEntities\obj\Debug\net5.0\ref\Hope.DomainEntities.dll

@@ -1,0 +1,169 @@
+﻿@*
+    For more information on enabling MVC for empty projects, visit https://go.microsoft.com/fwlink/?LinkID=397860
+*@
+@{
+}
+@model Hope.Infrastructure.DTO.LoanDTO;
+<html>
+<head>
+
+</head>
+<body>
+
+
+
+    <div class="container-fluid">
+        <div class="container-fluid">
+            <div class="card">
+                <div class="card-body">
+                    <h5 class="card-title fw-semibold mb-4">Add New Loan</h5>
+
+                    <div class="card">
+                        <div class="card-body">
+                            <form asp-action="AddNewLoan">
+                                <div class="row">
+                                    <div class="col-md-4">
+                                        <label class="form-label">Loan Type</label>
+                                        <span class="text-danger">*</span>
+                                        <select id="LoanTypeList" class="form-select" asp-for="LoanTypeId" asp-items="@(new SelectList(ViewBag.LoanType,"LoanTypeId","TypeName"))">
+                                            <option value="">Please Select</option>
+                                        </select>
+                                        <span asp-validation-for="LoanTypeId" class="text-danger"></span>
+                                    </div>
+                                    <div class="col-md-4">
+                                        <label class="form-label">Client Name</label>
+                                        <span class="text-danger">*</span>
+                                        <select id="ClientList" class="form-select" asp-for="ClientId" asp-items="@(new SelectList(ViewBag.Clients,"ClientId","FullName"))">
+                                            <option value="">Please Select</option>
+                                        </select>
+                                        <span asp-validation-for="ClientId" class="text-danger"></span>
+                                    </div>
+                                    <div class="col-md-4">
+                                        <label class="form-label">Loan Amount</label>
+                                        <span class="text-danger">*</span>
+                                        <input id="txtLoanAmount" type="text" class="form-control" asp-for="LoanAmount" onkeydown="CalculateLoanSattelment()" />
+                                        <span asp-validation-for="LoanAmount" class="text-danger"></span>
+                                    </div>
+                                </div>
+                                <div class="row">
+                                    <div class="col-md-4">
+                                        <label class="form-label">Loan Period (Years)</label>
+                                        <span class="text-danger">*</span>
+                                        <input id="txtLoanPeriod" type="number" class="form-control" onkeydown="CalculateLoanSattelment()" asp-for="LoanPeriod" />
+                                        <span asp-validation-for="LoanPeriod" class="text-danger"></span>
+                                    </div>
+                                    <div class="col-md-4">
+                                        <label class="form-label">Curreny</label>
+                                        <span class="text-danger">*</span>
+                                        <input type="text" class="form-control" asp-for="Curreny" />
+                                        <span asp-validation-for="Curreny" class="text-danger"></span>
+                                    </div>
+                                    <div class="col-md-4">
+                                        <label class="form-label">Loan Sattelment Amount</label>
+                                        <span class="text-danger">*</span>
+                                        <input id="txtLoanSattelmentAmount" type="text" class="form-control" asp-for="LoanSattelmentAmount" />
+                                        <span asp-validation-for="LoanSattelmentAmount" class="text-danger"></span>
+                                    </div>
+
+
+                                </div>
+
+
+                                <div class="row">
+                                    <div class="col-md-4">
+                                        <label class="form-label">Loan Start Date</label>
+                                        <span class="text-danger">*</span>
+                                        <input type="date" class="form-control" asp-for="StartDate" />
+                                        <span asp-validation-for="StartDate" class="text-danger"></span>
+                                    </div>
+                                    <div class="col-md-4">
+                                        <label class="form-label">Loan End Date</label>
+                                        <span class="text-danger">*</span>
+                                        <input type="date" class="form-control" asp-for="EndDate" />
+                                        <span asp-validation-for="EndDate" class="text-danger"></span>
+                                    </div>
+                                    <div class="col-md-4">
+                                        <label class="form-label">Interest Rate</label>
+                                        <span class="text-danger">*</span>
+                                        <input id="txtInterestRate" type="text" class="form-control" asp-for="InterestRate" onkeydown="CalculateRate()">
+                                        @*<div class="input-group-prepend">
+            <div class="input-group-text">%</div>
+        </div>*@
+                                    @*<div class="col-md-4 mb-3">
+                                        <label for="validationCustomUsername">Username</label>
+                                        <div class="input-group">
+                                            <div class="input-group-prepend">
+                                                <span class="input-group-text" id="inputGroupPrepend">%</span>
+                                            </div>
+                                            <input type="text" class="form-control" id="validationCustomUsername" placeholder="Username" aria-describedby="inputGroupPrepend" required>
+                                            <div class="invalid-feedback">
+                                                Please choose a username.
+                                            </div>
+                                        </div>
+                                    </div>*@
+                                        <span asp-validation-for="InterestRate" class="text-danger"></span>
+                                    </div>
+                                   
+                                </div>
+
+                                <div class="row">
+                                    <div class="col-md-4">
+                                        <label class="form-label">Tax Value</label>
+                                        <span class="text-danger">*</span>
+                                        <input id="txtTaxValue" type="text" class="form-control" asp-for="TaxValue" onkeydown="CalculateRate()" />
+                                        <span asp-validation-for="TaxValue" class="text-danger"></span>
+                                    </div>
+                                    <div class="col-md-4">
+                                        <label class="form-label">Total Amount with Interest</label>
+                                        <span class="text-danger">*</span>
+                                        <input id="txtTotalAmountwithInterest" type="text" class="form-control" asp-for="TotalAmountwithInterest" />
+                                        <span asp-validation-for="TotalAmountwithInterest" class="text-danger"></span>
+                                    </div>
+                                </div>
+                                <div class="row">
+                                    <div class="col-md-4">
+                                        <button id="btnSubmit" type="submit" class="btn btn-primary">Submit</button>
+                                    </div>
+                                </div>
+                            </form>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+
+
+    <script type="text/javascript">
+        function CalculateLoanSattelment()
+        {
+            var LoanAmount = document.getElementById('txtLoanAmount').value;
+            var LoanPeriod = document.getElementById('txtLoanPeriod').value;
+           
+            if (LoanAmount != '' && LoanPeriod != '')
+            {
+                document.getElementById('txtLoanSattelmentAmount').value = LoanAmount / (12 * LoanPeriod);
+            }
+        }
+
+        function CalculateRate() {
+            var InterestRate = document.getElementById('txtInterestRate').value;
+            var TaxValue = document.getElementById('txtTaxValue').value;
+            if (InterestRate != '' && TaxValue != '')
+            {
+                
+                var Loan = document.getElementById('txtLoanSattelmentAmount').value;
+                var Rate = (Loan * InterestRate) / 100;
+                var Tax = (Loan * TaxValue)/100;
+
+                document.getElementById('txtTotalAmountwithInterest').value = parseFloat(Loan) + parseFloat(Rate) + parseFloat(Tax);
+            }
+        }
+
+        
+ 
+        
+    </script>
+
+</body>
+</html>

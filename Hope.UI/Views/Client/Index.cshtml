@@ -1,0 +1,82 @@
+﻿@*
+    For more information on enabling MVC for empty projects, visit https://go.microsoft.com/fwlink/?LinkID=397860
+*@
+@{
+}
+@model List<Hope.Infrastructure.DTO.ClientDTO>
+<html>
+<head>
+    @*<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/twitter-bootstrap/5.3.0/css/bootstrap.min.css" />*@
+    <link rel="stylesheet" href="https://cdn.datatables.net/2.0.1/css/dataTables.bootstrap5.css" />
+    <link rel="stylesheet" href="https://cdn.datatables.net/buttons/3.0.0/css/buttons.dataTables.css" />
+
+
+    <script src="https://code.jquery.com/jquery-3.7.1.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/twitter-bootstrap/5.3.0/js/bootstrap.bundle.min.js"></script>
+    <script src="https://cdn.datatables.net/2.0.1/js/dataTables.js"></script>
+    <script src="https://cdn.datatables.net/2.0.1/js/dataTables.bootstrap5.js"></script>
+
+</head>
+<body>
+    <div class="container-fluid">
+        <div class="container-fluid">
+            <div class="card">
+                <div class="card-body">
+                    <h5 class="card-title fw-semibold mb-4">
+                        View All Clients
+                        <span style="float:right; font-size:15px">
+                            <a href="../Client/Create">+ Add New Client</a>
+                        </span>
+                    </h5>
+
+                    <div class="card">
+                        <div class="card-body">
+                            <div class="row">
+                                <div class="col-md-12">
+                                    <table id="myTable" class="table table-striped" style="width:100%">
+                                        <thead>
+                                            <tr>
+                                                <th>Full Name</th>
+                                                <th>Mobile</th>
+                                                <th>Date of Birth</th>
+                                                <th>Address</th>
+                                                <th>Register Date</th>
+                                                <th>National Id</th>
+                                                <th>Nationality Name</th>
+                                                <th>Passport</th>
+                                                <th>Action</th>
+                                            </tr>
+                                        </thead>
+                                        <tbody>
+                                            @foreach (var item in Model)
+                                            {
+                                                <tr>
+                                                    <td>@item.FullName</td>
+                                                    <td>@item.Mobile</td>
+                                                    <td>@item.DateOfBirth.Value.ToString("dd/MM/yyyy")</td>
+                                                    <td>@item.Address</td>
+                                                    <td>@item.RegisterDate.ToString("dd/MM/yyyy")</td>
+                                                    <td>@item.NationalId</td>
+                                                    <td>@item.NationalityName</td>
+                                                    <td>@item.PassportNumber</td>
+                                                    <td style="font-size:18px">
+                                                        <a asp-controller="Client" asp-action="Update" asp-route-ID="@item.ClientId" class="ti ti-edit"></a>
+                                                        <a asp-controller="Client" asp-action="Delete" asp-route-ID="@item.ClientId" class="ti ti-trash"></a>
+                                                    </td>
+                                                </tr>
+                                            }
+                                        </tbody>
+                                    </table>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+    <script>
+       
+    </script>
+</body>
+</html>

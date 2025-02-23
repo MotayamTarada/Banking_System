@@ -1,0 +1,100 @@
+﻿@*
+    For more information on enabling MVC for empty projects, visit https://go.microsoft.com/fwlink/?LinkID=397860
+*@
+@{
+}
+@model Hope.Infrastructure.DTO.EmployeeDTO;
+<html>
+<head>
+
+</head>
+<body>
+  
+    <div class="container-fluid">
+        <div class="container-fluid">
+            <div class="card">
+                <div class="card-body">
+                    <h5 class="card-title fw-semibold mb-4">Add New Employee</h5>
+                    
+                    <div class="card">
+                        <div class="card-body">
+                            <form asp-action="AddNewEmployee" enctype="multipart/form-data">
+                                <div class="row">
+                                    <div class="col-md-4">
+
+                                        <label class="form-label">Full Name</label>
+                                        <span class="text-danger">*</span>
+                                        <input type="text" class="form-control" asp-for="FullName">
+                                        <span asp-validation-for="FullName" class="text-danger"></span>
+                                    </div>
+                                    <div class="col-md-4">
+                                        <label class="form-label">Mobile</label>
+                                        <span class="text-danger">*</span>
+                                        <input type="text" class="form-control" asp-for="Mobile">
+                                        <span asp-validation-for="Mobile" class="text-danger"></span>
+                                    </div>
+                                    <div class="col-md-4">
+                                        <label class="form-label">Address</label>
+                                        <span class="text-danger">*</span>
+                                        <input type="text" class="form-control" asp-for="Address">
+                                        <span asp-validation-for="Address" class="text-danger"></span>
+                                    </div>
+                                </div>
+                                <div class="row">
+                                    <div class="col-md-4">
+                                        <label class="form-label">Email</label>
+                                        <span class="text-danger">*</span>
+                                        <input type="text" class="form-control" asp-for="Email">
+                                        <span asp-validation-for="Email" class="text-danger"></span>
+                                    </div>
+                                    <div class="col-md-4">
+                                        <label class="form-label">Join Date</label>
+                                        <span class="text-danger">*</span>
+                                        <input type="date" class="form-control" asp-for="JoinDate">
+                                        <span asp-validation-for="JoinDate" class="text-danger"></span>
+                                    </div>
+                                    <div class="col-md-4">
+                                        <label class="form-label">Salary</label>
+                                        <span class="text-danger">*</span>
+                                        <input type="text" class="form-control" asp-for="Salary">
+                                        <span asp-validation-for="Salary" class="text-danger"></span>
+                                    </div>
+                                </div>
+                                <div class="row">
+                                    <div class="col-md-4">
+                                        <label class="form-label">Qualification Name</label>
+                                        <span class="text-danger">*</span>
+                                        <select class="form-select" asp-for="QualificationId" asp-items="@(new SelectList(ViewBag.Qualification,"Id","Name"))">
+                                            <option value="">Please Select</option>
+                                        </select>
+                                        <span asp-validation-for="QualificationId" class="text-danger"></span>
+                                    </div>
+                                    <div class="col-md-4">
+                                        <label class="form-label">Date Of Birth</label>
+                                        <input type="date" class="form-control" asp-for="DateOfBirth">
+                                    </div>
+                                    <div class="col-md-4">
+                                        <label class="form-label">ID Card</label>
+                                        <input type="file" asp-for="IDCard" class="form-control" />
+                                    </div>
+                                </div>
+                                <div class="row">
+                                    <div class="col-md-4">
+                                        <button type="submit" class="btn btn-primary">Submit</button>
+                                    </div>
+                                </div>
+                            </form>
+
+                        </div>
+                    </div>
+
+                </div>
+            </div>
+        </div>
+    </div>
+
+</body>
+@section Scripts {
+    @{await Html.RenderPartialAsync("_ValidationScriptsPartial");}
+}
+</html>

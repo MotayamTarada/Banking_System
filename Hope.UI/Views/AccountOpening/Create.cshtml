@@ -1,0 +1,136 @@
+﻿@*
+    For more information on enabling MVC for empty projects, visit https://go.microsoft.com/fwlink/?LinkID=397860
+*@
+@{
+}
+@model Hope.Infrastructure.DTO.AccountOpeningDTO;
+<html>
+<head>
+    <style>
+        .alert-danger {
+            --bs-alert-color: red !important;
+            font-size:15px;
+        }
+    </style>
+</head>
+<body>
+    <div class="container-fluid">
+        <div class="container-fluid">
+            <div class="card">
+                <div class="card-body">
+                    <h5 class="card-title fw-semibold mb-4">Add New Account Opening</h5>
+
+                    <div class="card">
+                        <div class="card-body">
+                            <form asp-action="AddNewAccountOpening">
+                                <div class="row">
+                                    <div class="col-md-4">
+                                        <label class="form-label">Account Type</label>
+                                        <span class="text-danger">*</span>
+                                        <select id="AccountTypeList" class="form-select" asp-for="AccountTypeId" asp-items="@(new SelectList(ViewBag.AccountTypes,"AccountTypeId","AccountName"))">
+                                            <option value="">Please Select</option>
+                                        </select>
+                                        <span asp-validation-for="AccountTypeId" class="text-danger"></span>
+                                    </div>
+                                    <div class="col-md-4">
+                                        <label class="form-label">Client Name</label>
+                                        <span class="text-danger">*</span>
+                                        <select id="ClientList" class="form-select" asp-for="ClientId" asp-items="@(new SelectList(ViewBag.Clients,"ClientId","FullName"))">
+                                            <option value="">Please Select</option>
+                                        </select>
+                                        <span asp-validation-for="ClientId" class="text-danger"></span>
+                                    </div>
+                            
+                                    <div class="col-md-4">
+                                        <label class="form-label">IBAN</label>
+                                        <span class="text-danger">*</span>
+                                        <input type="text" class="form-control" asp-for="Iban">
+                                        <span asp-validation-for="Iban" class="text-danger"></span>
+                                    </div>
+                                </div>
+                                <div class="row">
+                                    <div class="col-md-4">
+                                        <label class="form-label">Currency</label>
+                                        <span class="text-danger">*</span>
+                                        <input type="text" class="form-control" asp-for="Currency" maxlength="5">
+                                        <span asp-validation-for="Currency" class="text-danger"></span>
+                                    </div>
+                                    <div class="col-md-4">
+                                        <label class="form-label">Balance</label>
+                                        <span class="text-danger">*</span>
+                                        <input type="text" class="form-control" asp-for="Balance">
+                                        <span asp-validation-for="Balance" class="text-danger"></span>
+                                    </div>
+                                    <div class="col-md-4">
+
+                                    </div>
+                                </div>
+                                <div class="row">
+                                    <div class="col-md-4">
+                                        <button id="btnSubmit" type="submit" class="btn btn-primary">Submit</button>
+                                    </div>
+                                </div>
+                                <div class="row" id="divError" style="display:none">
+                                    <div class="col-md-12 alert alert-danger" role="alert">
+                                            You can't be able to add new account to this client, because this account already created!
+                                    </div>
+                                    </div>
+                            </form>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <script type="text/javascript">
+        $('#AccountTypeList').change(function () {
+            if ($('#AccountTypeList').val() != '' && $('#ClientList').val() != '') {
+                $.getJSON('CheckIfUserHasAccount', {
+                    AccountTypeId: $('#AccountTypeList').val(),
+                    ClientId: $('#ClientList').val()
+                }, function (ResultValue) {
+                        if (ResultValue == 'Success') {
+                        $('#btnSubmit').prop('disabled', true);
+                        document.getElementById('divError').style.display = 'block';
+                    }
+                        else {
+                        $('#btnSubmit').prop('disabled', false);
+                        document.getElementById('divError').style.display = 'none';
+                    }
+
+                });
+            }
+        });
+
+
+        $('#ClientList').change(function () {
+            if ($('#AccountTypeList').val() != '' && $('#ClientList').val() != '')
+            {
+                $.getJSON('CheckIfUserHasAccount', {
+                    AccountTypeId: $('#AccountTypeList').val(),
+                    ClientId: $('#ClientList').val()
+                }, function (ResultValue) {
+                        if (ResultValue == 'Success') {
+                        $('#btnSubmit').prop('disabled', true);
+                        document.getElementById('divError').style.display = 'block';
+                    }
+                        else {
+                        $('#btnSubmit').prop('disabled', false);
+                        document.getElementById('divError').style.display = 'none';
+                    }
+                });
+            }
+        });
+
+
+
+
+    </script>
+
+
+</body>
+@section Scripts {
+    @{await Html.RenderPartialAsync("_ValidationScriptsPartial");}
+}
+</html>

@@ -1,0 +1,36 @@
+D:\TheHope\Project_SourceCode\HopeAdvanceFebruray\Hope.Infrastructure\bin\Debug\net5.0\Hope.Infrastructure.deps.json
+D:\TheHope\Project_SourceCode\HopeAdvanceFebruray\Hope.Infrastructure\bin\Debug\net5.0\Hope.Infrastructure.dll
+D:\TheHope\Project_SourceCode\HopeAdvanceFebruray\Hope.Infrastructure\bin\Debug\net5.0\ref\Hope.Infrastructure.dll
+D:\TheHope\Project_SourceCode\HopeAdvanceFebruray\Hope.Infrastructure\bin\Debug\net5.0\Hope.Infrastructure.pdb
+D:\TheHope\Project_SourceCode\HopeAdvanceFebruray\Hope.Infrastructure\obj\Debug\net5.0\Hope.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+D:\TheHope\Project_SourceCode\HopeAdvanceFebruray\Hope.Infrastructure\obj\Debug\net5.0\Hope.Infrastructure.AssemblyInfoInputs.cache
+D:\TheHope\Project_SourceCode\HopeAdvanceFebruray\Hope.Infrastructure\obj\Debug\net5.0\Hope.Infrastructure.AssemblyInfo.cs
+D:\TheHope\Project_SourceCode\HopeAdvanceFebruray\Hope.Infrastructure\obj\Debug\net5.0\Hope.Infrastructure.csproj.CoreCompileInputs.cache
+D:\TheHope\Project_SourceCode\HopeAdvanceFebruray\Hope.Infrastructure\obj\Debug\net5.0\Hope.Infrastructure.dll
+D:\TheHope\Project_SourceCode\HopeAdvanceFebruray\Hope.Infrastructure\obj\Debug\net5.0\ref\Hope.Infrastructure.dll
+D:\TheHope\Project_SourceCode\HopeAdvanceFebruray\Hope.Infrastructure\obj\Debug\net5.0\Hope.Infrastructure.pdb
+D:\TheHope\Project_SourceCode\HopeAdvanceFebruray\Hope.Infrastructure\obj\Debug\net5.0\Hope.Infrastructure.csprojAssemblyReference.cache
+D:\Asp.net Adv\HopeAdvanceFebruray\HopeAdvanceFebruray\Hope.Infrastructure\bin\Debug\net5.0\Hope.Infrastructure.deps.json
+D:\Asp.net Adv\HopeAdvanceFebruray\HopeAdvanceFebruray\Hope.Infrastructure\bin\Debug\net5.0\Hope.Infrastructure.dll
+D:\Asp.net Adv\HopeAdvanceFebruray\HopeAdvanceFebruray\Hope.Infrastructure\bin\Debug\net5.0\Hope.Infrastructure.pdb
+D:\Asp.net Adv\HopeAdvanceFebruray\HopeAdvanceFebruray\Hope.Infrastructure\obj\Debug\net5.0\Hope.Infrastructure.csproj.AssemblyReference.cache
+D:\Asp.net Adv\HopeAdvanceFebruray\HopeAdvanceFebruray\Hope.Infrastructure\obj\Debug\net5.0\Hope.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+D:\Asp.net Adv\HopeAdvanceFebruray\HopeAdvanceFebruray\Hope.Infrastructure\obj\Debug\net5.0\Hope.Infrastructure.AssemblyInfoInputs.cache
+D:\Asp.net Adv\HopeAdvanceFebruray\HopeAdvanceFebruray\Hope.Infrastructure\obj\Debug\net5.0\Hope.Infrastructure.AssemblyInfo.cs
+D:\Asp.net Adv\HopeAdvanceFebruray\HopeAdvanceFebruray\Hope.Infrastructure\obj\Debug\net5.0\Hope.Infrastructure.csproj.CoreCompileInputs.cache
+D:\Asp.net Adv\HopeAdvanceFebruray\HopeAdvanceFebruray\Hope.Infrastructure\obj\Debug\net5.0\Hope.Infrastructure.dll
+D:\Asp.net Adv\HopeAdvanceFebruray\HopeAdvanceFebruray\Hope.Infrastructure\obj\Debug\net5.0\refint\Hope.Infrastructure.dll
+D:\Asp.net Adv\HopeAdvanceFebruray\HopeAdvanceFebruray\Hope.Infrastructure\obj\Debug\net5.0\Hope.Infrastructure.pdb
+D:\Asp.net Adv\HopeAdvanceFebruray\HopeAdvanceFebruray\Hope.Infrastructure\obj\Debug\net5.0\ref\Hope.Infrastructure.dll
+D:\Cursese.net\Asp.net Adv\HopeAdvanceFebruray\HopeAdvanceFebruray\Hope.Infrastructure\bin\Debug\net5.0\Hope.Infrastructure.deps.json
+D:\Cursese.net\Asp.net Adv\HopeAdvanceFebruray\HopeAdvanceFebruray\Hope.Infrastructure\bin\Debug\net5.0\Hope.Infrastructure.dll
+D:\Cursese.net\Asp.net Adv\HopeAdvanceFebruray\HopeAdvanceFebruray\Hope.Infrastructure\bin\Debug\net5.0\Hope.Infrastructure.pdb
+D:\Cursese.net\Asp.net Adv\HopeAdvanceFebruray\HopeAdvanceFebruray\Hope.Infrastructure\obj\Debug\net5.0\Hope.Infrastructure.csproj.AssemblyReference.cache
+D:\Cursese.net\Asp.net Adv\HopeAdvanceFebruray\HopeAdvanceFebruray\Hope.Infrastructure\obj\Debug\net5.0\Hope.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+D:\Cursese.net\Asp.net Adv\HopeAdvanceFebruray\HopeAdvanceFebruray\Hope.Infrastructure\obj\Debug\net5.0\Hope.Infrastructure.AssemblyInfoInputs.cache
+D:\Cursese.net\Asp.net Adv\HopeAdvanceFebruray\HopeAdvanceFebruray\Hope.Infrastructure\obj\Debug\net5.0\Hope.Infrastructure.AssemblyInfo.cs
+D:\Cursese.net\Asp.net Adv\HopeAdvanceFebruray\HopeAdvanceFebruray\Hope.Infrastructure\obj\Debug\net5.0\Hope.Infrastructure.csproj.CoreCompileInputs.cache
+D:\Cursese.net\Asp.net Adv\HopeAdvanceFebruray\HopeAdvanceFebruray\Hope.Infrastructure\obj\Debug\net5.0\Hope.Infrastructure.dll
+D:\Cursese.net\Asp.net Adv\HopeAdvanceFebruray\HopeAdvanceFebruray\Hope.Infrastructure\obj\Debug\net5.0\refint\Hope.Infrastructure.dll
+D:\Cursese.net\Asp.net Adv\HopeAdvanceFebruray\HopeAdvanceFebruray\Hope.Infrastructure\obj\Debug\net5.0\Hope.Infrastructure.pdb
+D:\Cursese.net\Asp.net Adv\HopeAdvanceFebruray\HopeAdvanceFebruray\Hope.Infrastructure\obj\Debug\net5.0\ref\Hope.Infrastructure.dll

@@ -1,0 +1,15 @@
+D:\TheHope\Project_SourceCode\HopeAdvanceFebruray\Hope.Repositories\bin\Release\net5.0\Hope.Repositories.deps.json
+D:\TheHope\Project_SourceCode\HopeAdvanceFebruray\Hope.Repositories\bin\Release\net5.0\Hope.Repositories.dll
+D:\TheHope\Project_SourceCode\HopeAdvanceFebruray\Hope.Repositories\bin\Release\net5.0\ref\Hope.Repositories.dll
+D:\TheHope\Project_SourceCode\HopeAdvanceFebruray\Hope.Repositories\bin\Release\net5.0\Hope.Repositories.pdb
+D:\TheHope\Project_SourceCode\HopeAdvanceFebruray\Hope.Repositories\bin\Release\net5.0\Hope.DomainEntities.dll
+D:\TheHope\Project_SourceCode\HopeAdvanceFebruray\Hope.Repositories\bin\Release\net5.0\Hope.DomainEntities.pdb
+D:\TheHope\Project_SourceCode\HopeAdvanceFebruray\Hope.Repositories\obj\Release\net5.0\Hope.Repositories.csprojAssemblyReference.cache
+D:\TheHope\Project_SourceCode\HopeAdvanceFebruray\Hope.Repositories\obj\Release\net5.0\Hope.Repositories.GeneratedMSBuildEditorConfig.editorconfig
+D:\TheHope\Project_SourceCode\HopeAdvanceFebruray\Hope.Repositories\obj\Release\net5.0\Hope.Repositories.AssemblyInfoInputs.cache
+D:\TheHope\Project_SourceCode\HopeAdvanceFebruray\Hope.Repositories\obj\Release\net5.0\Hope.Repositories.AssemblyInfo.cs
+D:\TheHope\Project_SourceCode\HopeAdvanceFebruray\Hope.Repositories\obj\Release\net5.0\Hope.Repositories.csproj.CoreCompileInputs.cache
+D:\TheHope\Project_SourceCode\HopeAdvanceFebruray\Hope.Repositories\obj\Release\net5.0\Hope.Repositories.csproj.CopyComplete
+D:\TheHope\Project_SourceCode\HopeAdvanceFebruray\Hope.Repositories\obj\Release\net5.0\Hope.Repositories.dll
+D:\TheHope\Project_SourceCode\HopeAdvanceFebruray\Hope.Repositories\obj\Release\net5.0\ref\Hope.Repositories.dll
+D:\TheHope\Project_SourceCode\HopeAdvanceFebruray\Hope.Repositories\obj\Release\net5.0\Hope.Repositories.pdb

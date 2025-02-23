@@ -1,0 +1,1 @@
+﻿Scaffold-DbContext "Server=TalentPC002;Database=HopeBankManagementSystem;Trusted_Connection=True; User Id=sa;password=P@ssw0rd;Integrated Security=False" Microsoft.EntityFrameworkCore.SqlServer -OutputDir DBEntities -ContextDir "D:\TheHope\Project_SourceCode\HopeAdvanceFebruray\Hope.Repositories\Context" -Force 

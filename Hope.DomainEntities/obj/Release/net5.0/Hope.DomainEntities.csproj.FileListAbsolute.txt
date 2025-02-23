@@ -1,0 +1,15 @@
+D:\TheHope\Project_SourceCode\HopeAdvanceFebruray\Hope.DomainEntities\bin\Release\net5.0\Hope.DomainEntities.deps.json
+D:\TheHope\Project_SourceCode\HopeAdvanceFebruray\Hope.DomainEntities\bin\Release\net5.0\Hope.DomainEntities.runtimeconfig.json
+D:\TheHope\Project_SourceCode\HopeAdvanceFebruray\Hope.DomainEntities\bin\Release\net5.0\Hope.DomainEntities.runtimeconfig.dev.json
+D:\TheHope\Project_SourceCode\HopeAdvanceFebruray\Hope.DomainEntities\bin\Release\net5.0\Hope.DomainEntities.dll
+D:\TheHope\Project_SourceCode\HopeAdvanceFebruray\Hope.DomainEntities\bin\Release\net5.0\ref\Hope.DomainEntities.dll
+D:\TheHope\Project_SourceCode\HopeAdvanceFebruray\Hope.DomainEntities\bin\Release\net5.0\Hope.DomainEntities.pdb
+D:\TheHope\Project_SourceCode\HopeAdvanceFebruray\Hope.DomainEntities\obj\Release\net5.0\Hope.DomainEntities.csprojAssemblyReference.cache
+D:\TheHope\Project_SourceCode\HopeAdvanceFebruray\Hope.DomainEntities\obj\Release\net5.0\Hope.DomainEntities.GeneratedMSBuildEditorConfig.editorconfig
+D:\TheHope\Project_SourceCode\HopeAdvanceFebruray\Hope.DomainEntities\obj\Release\net5.0\Hope.DomainEntities.AssemblyInfoInputs.cache
+D:\TheHope\Project_SourceCode\HopeAdvanceFebruray\Hope.DomainEntities\obj\Release\net5.0\Hope.DomainEntities.AssemblyInfo.cs
+D:\TheHope\Project_SourceCode\HopeAdvanceFebruray\Hope.DomainEntities\obj\Release\net5.0\Hope.DomainEntities.csproj.CoreCompileInputs.cache
+D:\TheHope\Project_SourceCode\HopeAdvanceFebruray\Hope.DomainEntities\obj\Release\net5.0\Hope.DomainEntities.dll
+D:\TheHope\Project_SourceCode\HopeAdvanceFebruray\Hope.DomainEntities\obj\Release\net5.0\ref\Hope.DomainEntities.dll
+D:\TheHope\Project_SourceCode\HopeAdvanceFebruray\Hope.DomainEntities\obj\Release\net5.0\Hope.DomainEntities.pdb
+D:\TheHope\Project_SourceCode\HopeAdvanceFebruray\Hope.DomainEntities\obj\Release\net5.0\Hope.DomainEntities.genruntimeconfig.cache
